@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1450626897 source:c:\users\vladimir\dropbox\programming\university\gc\ch_mingw\convex_hull\convex_hull.cpp
+	"convex_hull.hpp"
+
+1450616180 c:\users\vladimir\dropbox\programming\university\gc\ch_mingw\convex_hull\convex_hull.hpp
+	<vector>
+	<algorithm>
+	"point.hpp"
+
+1450627037 c:\users\vladimir\dropbox\programming\university\gc\ch_mingw\convex_hull\point.hpp
+
+1450802786 source:c:\users\vladimir\dropbox\programming\university\gc\ch_mingw\convex_hull\main.cpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	"ResourcePath.hpp"
+	<vector>
+	"point.hpp"
+	"convex_hull.hpp"
+	"polygon.hpp"
+	<iostream>
+	<stdexcept>
+	<fstream>
+
+1450802640 c:\users\vladimir\dropbox\programming\university\gc\ch_mingw\convex_hull\resourcepath.hpp
+	<string>
+
+1450626812 c:\users\vladimir\dropbox\programming\university\gc\ch_mingw\convex_hull\polygon.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+	"point.hpp"
+
+1450616064 source:c:\users\vladimir\dropbox\programming\university\gc\ch_mingw\convex_hull\point.cpp
+	"point.hpp"
+
+1450624058 source:c:\users\vladimir\dropbox\programming\university\gc\ch_mingw\convex_hull\polygon.cpp
+	"polygon.hpp"
+
+1451993231 source:c:\users\irina\desktop\proiect\convex_hull.cpp
+	"convex_hull.hpp"
+
+1451993231 c:\users\irina\desktop\proiect\convex_hull.hpp
+	<vector>
+	<algorithm>
+	"point.hpp"
+
+1451993231 c:\users\irina\desktop\proiect\point.hpp
+
+1451993231 source:c:\users\irina\desktop\proiect\point.cpp
+	"point.hpp"
+
+1451993231 source:c:\users\irina\desktop\proiect\polygon.cpp
+	"polygon.hpp"
+
+1451993231 c:\users\irina\desktop\proiect\polygon.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+	"point.hpp"
+

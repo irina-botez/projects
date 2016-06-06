@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448531628 source:c:\users\irina\desktop\circumscris\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
